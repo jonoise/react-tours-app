@@ -14,5 +14,5 @@ On this project with worked with:
 To run the project just clone it, install dependencies and run start.
 
 ```bash
-npm install && run
+npm install && npm start
 ```
